@@ -1,0 +1,16 @@
+C:\Users\Ezgi GÜN\Desktop\Yeni klasör\MayinTarlasi\MayinTarlasi\bin\Debug\netcoreapp3.1\MayinTarlasi.exe
+C:\Users\Ezgi GÜN\Desktop\Yeni klasör\MayinTarlasi\MayinTarlasi\bin\Debug\netcoreapp3.1\MayinTarlasi.deps.json
+C:\Users\Ezgi GÜN\Desktop\Yeni klasör\MayinTarlasi\MayinTarlasi\bin\Debug\netcoreapp3.1\MayinTarlasi.runtimeconfig.json
+C:\Users\Ezgi GÜN\Desktop\Yeni klasör\MayinTarlasi\MayinTarlasi\bin\Debug\netcoreapp3.1\MayinTarlasi.runtimeconfig.dev.json
+C:\Users\Ezgi GÜN\Desktop\Yeni klasör\MayinTarlasi\MayinTarlasi\bin\Debug\netcoreapp3.1\MayinTarlasi.dll
+C:\Users\Ezgi GÜN\Desktop\Yeni klasör\MayinTarlasi\MayinTarlasi\bin\Debug\netcoreapp3.1\MayinTarlasi.pdb
+C:\Users\Ezgi GÜN\Desktop\Yeni klasör\MayinTarlasi\MayinTarlasi\obj\Debug\netcoreapp3.1\MayinTarlasi.csprojAssemblyReference.cache
+C:\Users\Ezgi GÜN\Desktop\Yeni klasör\MayinTarlasi\MayinTarlasi\obj\Debug\netcoreapp3.1\MayinTarlasi.Form1.resources
+C:\Users\Ezgi GÜN\Desktop\Yeni klasör\MayinTarlasi\MayinTarlasi\obj\Debug\netcoreapp3.1\MayinTarlasi.csproj.GenerateResource.cache
+C:\Users\Ezgi GÜN\Desktop\Yeni klasör\MayinTarlasi\MayinTarlasi\obj\Debug\netcoreapp3.1\MayinTarlasi.AssemblyInfoInputs.cache
+C:\Users\Ezgi GÜN\Desktop\Yeni klasör\MayinTarlasi\MayinTarlasi\obj\Debug\netcoreapp3.1\MayinTarlasi.AssemblyInfo.cs
+C:\Users\Ezgi GÜN\Desktop\Yeni klasör\MayinTarlasi\MayinTarlasi\obj\Debug\netcoreapp3.1\MayinTarlasi.csproj.CoreCompileInputs.cache
+C:\Users\Ezgi GÜN\Desktop\Yeni klasör\MayinTarlasi\MayinTarlasi\obj\Debug\netcoreapp3.1\MayinTarlasi.dll
+C:\Users\Ezgi GÜN\Desktop\Yeni klasör\MayinTarlasi\MayinTarlasi\obj\Debug\netcoreapp3.1\MayinTarlasi.pdb
+C:\Users\Ezgi GÜN\Desktop\Yeni klasör\MayinTarlasi\MayinTarlasi\obj\Debug\netcoreapp3.1\MayinTarlasi.genruntimeconfig.cache
+C:\Users\Ezgi GÜN\Desktop\Yeni klasör\MayinTarlasi\MayinTarlasi\obj\Debug\netcoreapp3.1\MayinTarlasi.Properties.Resources.resources
